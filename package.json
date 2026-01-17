@@ -2,6 +2,10 @@
   "name": "edge-tts-js",
   "version": "1.0.0",
   "description": "Microsoft Edge's TTS (TypeScript port)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelAdmand/Edge_TTS_JS.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",

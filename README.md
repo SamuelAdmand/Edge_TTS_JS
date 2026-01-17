@@ -6,10 +6,10 @@ A TypeScript port of the `edge-tts` Python library. This library allows you to u
 
 ### From GitHub
 
-Once you have pushed this repository to GitHub, you can install it in other projects using:
+You can install this library directly from GitHub:
 
 ```bash
-npm install github:your-username/edge-tts-js
+npm install github:SamuelAdmand/Edge_TTS_JS
 ```
 
 ### Locally
