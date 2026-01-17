@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+edge-tts-python-source
+*.mp3
+test_verification.js
+output.mp3
